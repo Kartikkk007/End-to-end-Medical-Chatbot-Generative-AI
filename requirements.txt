@@ -1,12 +1,16 @@
-sentence-transformers
-langchain
-langchain-huggingface
 flask
-pypdf
 python-dotenv
-pinecone[grpc]
+
+langchain
+langchain-core
+langchain-classic
+langchain-community
+langchain-text-splitters
 langchain-pinecone
-langchain_community
-langchain_openai
-langchain_experimental
-- e .
+langchain-groq
+langchain-huggingface
+
+sentence-transformers
+pypdf
+
+pinecone[grpc]
